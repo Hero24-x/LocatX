@@ -26,6 +26,8 @@
 ## 🛠 Installation
 
 ### 📲 Termux (Android)
+### 🐉 Kali Linux 
+### All Ubantu Distro ☠️✨
 
 ```bash
 pkg update && pkg upgrade
