@@ -33,15 +33,16 @@ pkg install php git
 git clone https://github.com/Hero404/LocatX
 cd LocatX
 php -S 0.0.0.0:8080
+--
 
-## Start Ngrok to get public link
+**Start Ngrok to get public link**
 
 pkg install wget unzip
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 ./ngrok http 8080
 
-##🔒 Legal Disclaimer
+**🔒 Legal Disclaimer**
 This project is made for educational purposes only.
 Any misuse of this tool for unauthorized surveillance, spying, or illegal activity is strictly prohibited.
 The developer is not responsible for any misuse or damage caused by this tool.
